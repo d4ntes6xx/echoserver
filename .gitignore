@@ -39,7 +39,7 @@
 *.opensdf
 *.idea/
 *.vscode/
-.vs/
+*.vs/
 
 
 # Системные файлы
