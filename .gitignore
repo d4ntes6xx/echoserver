@@ -1,0 +1,49 @@
+# Файлы сборки
+*.d
+*.o
+*.obj
+*.slo
+*.lo
+*.so
+*.exe
+*.dylib
+*.dll
+*.out
+*.app
+
+# Предварительно скомпилированные хедера
+*.gch
+*.pch
+*.ipch
+
+# Файлы модулей Fortran
+*.mod
+*.smod
+
+# Скомпилированные статические библиотеки
+*.lai
+*.la
+*.a
+*.lib
+
+# Каталоги сборки
+/build/
+/bin/
+/debug/
+/release/
+
+# Кэш IDE
+*.user
+*.vcxproj.*
+*.sdf
+*.opensdf
+*.idea/
+*.vscode/
+.vs/
+
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+

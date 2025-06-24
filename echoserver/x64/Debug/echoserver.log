@@ -1,0 +1,65 @@
+﻿  echoserver.cpp
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(21,25): error C2039: "clock_t": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(21,13): error C2873: clock_t: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(25,25): error C2039: "asctime": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(25,13): error C2873: asctime: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(26,25): error C2039: "clock": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(26,13): error C2873: clock: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(27,25): error C2039: "strftime": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(27,13): error C2873: strftime: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(79,25): error C2039: "ctime": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(79,13): error C2873: ctime: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(80,25): error C2039: "difftime": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(80,13): error C2873: difftime: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(81,25): error C2039: "gmtime": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(81,13): error C2873: gmtime: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(82,25): error C2039: "localtime": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(82,13): error C2873: localtime: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(83,25): error C2039: "mktime": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(83,13): error C2873: mktime: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(84,25): error C2039: "time": не является членом "`global namespace'".
+  (компиляция исходного файла "echoserver.cpp")
+  
+G:\program-files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\ctime(84,13): error C2873: time: использование символа в "using"-объявлении не допускается
+  (компиляция исходного файла "echoserver.cpp")
+  
+C:\Users\Daniel\source\repos\echoserver\echoserver\echoserver.cpp(93,30): error C3861: time: идентификатор не найден
+C:\Users\Daniel\source\repos\echoserver\echoserver\echoserver.cpp(99,79): error C3861: ctime: идентификатор не найден
+C:\Users\Daniel\source\repos\echoserver\echoserver\echoserver.cpp(99,58): warning C4477: "snprintf": в строке форматирования "%.24s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "<error type>"
+C:\Users\Daniel\source\repos\echoserver\echoserver\echoserver.cpp(100,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
